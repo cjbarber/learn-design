@@ -140,6 +140,6 @@ Here's how you can impact where I take this.
 
 Let me know which design 'thing'/info you are most interested in by clicking 2 buttons in a survey [here](https://docs.google.com/forms/d/1N4AZ3pK_40LN0MJCfpygOB7BdrODvJz8qgHIJDArELs/viewform). 
 
-*[Choose what I build!](https://docs.google.com/forms/d/1N4AZ3pK_40LN0MJCfpygOB7BdrODvJz8qgHIJDArELs/viewform)*
+##*[Choose what I build!](https://docs.google.com/forms/d/1N4AZ3pK_40LN0MJCfpygOB7BdrODvJz8qgHIJDArELs/viewform)*
 
 (Surprise bonus for anyone that does that - if I make anything with that that costs, you'll get at minimum 40% off.)
