@@ -142,4 +142,11 @@ Let me know which design 'thing'/info you are most interested in by clicking 2 b
 
 ##*[Choose what I build!](https://docs.google.com/forms/d/1N4AZ3pK_40LN0MJCfpygOB7BdrODvJz8qgHIJDArELs/viewform)*
 
-(Surprise bonus for anyone that does that - if I make anything with that that costs, you'll get at minimum 40% off.)
+(Surprise bonus for anyone that does that - I interviewed a few tech companies. You can pick what content I release first :D)
+
+
+Did you already fill out the survey? I hope so!
+
+Also - this page is definitely intended to stay up to date. Hence why it is on Github! Submit pull requests as you please.
+
+I'm a computer science student from Stanford University, and this summer I'm trying to launch a few cool things. [Join my journey](http://relentlesslyresourceful.quora.com/A-Stanford-Startup-Summer-90-Days-to-D-Day) for inspiration, and learning, and most of all to help me out.
