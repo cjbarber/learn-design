@@ -120,6 +120,7 @@ This will be a bit more resource heavy. Things like:
 * [Bootstrapping Design](http://bootstrappingdesign.com)
 * <http://uxdesign.smashingmagazine.com/2010/11/29/persuasion-triggers-in-web-design/>
 * <http://newtome.wordpress.com/2011/12/27/the-design-of-everyday-things-action-summary-and-outline/>
+* [Human-Computer Interaction Course](https://www.coursera.org/course/hci)
 
 This is definitely aimed at those doing their own projects who want to be able to design them, rather than:
 
