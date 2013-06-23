@@ -141,6 +141,10 @@ Here's how you can impact where I take this.
 
 Let me know which design 'thing'/info you are most interested in by clicking 2 buttons in a survey [here](https://docs.google.com/forms/d/1N4AZ3pK_40LN0MJCfpygOB7BdrODvJz8qgHIJDArELs/viewform). 
 
+##Did you miss that?
+
+*###[Click here to find out when/if I make this/it's cousin/long-lost twin or something of that nature](https://docs.google.com/forms/d/1N4AZ3pK_40LN0MJCfpygOB7BdrODvJz8qgHIJDArELs/viewform)*
+
 ##*[Choose what I build!](https://docs.google.com/forms/d/1N4AZ3pK_40LN0MJCfpygOB7BdrODvJz8qgHIJDArELs/viewform)*
 
 (Surprise bonus for anyone that does that - I interviewed a few tech companies. You can pick what content I release first :D)
