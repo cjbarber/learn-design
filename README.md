@@ -155,5 +155,3 @@ Did you already fill out the survey? I hope so!
 Also - this page is definitely intended to stay up to date. Hence why it is on Github! Submit pull requests as you please.
 
 I'm a computer science student from Stanford University, and this summer I'm trying to launch a few cool things. [Join my journey](http://relentlesslyresourceful.quora.com/A-Stanford-Startup-Summer-90-Days-to-D-Day) for inspiration and learning.
-
-(Do you know meteor.js? I'm currently diving into meteor and could really use a mentor! [Shoot me an email](mailto:cjbarber@stanford.edu)
