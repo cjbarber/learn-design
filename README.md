@@ -11,8 +11,6 @@ Every so often, a post pops up on Hacker News, that sounds something like 'how c
 
 So this is my attempt at creating something pretty basic and easy to update, that still captures the important resources needed when learning design.
 
-I'm a Student from Stanford University, and this summer I'm launching a bunch of things. This is one of them. Check out my [Quora blog](http://relentlesslyresourceful.quora.com/A-Stanford-Startup-Summer-90-Days-to-D-Day) to follow along and see more.
-
 ### How could I organize this?
 
 I was first thinking of just going by categories, e.g. Frameworks, Typography tools, Typography books, UX books, Inspiration sites, and so on. Instead, I decided to focus on goals:
@@ -131,27 +129,4 @@ Things like:
 * <http://www.quora.com/Which-books-can-help-me-becoming-an-expert-in-UI-UX-and-usability-standards>
 * [Niice - a site to search for inspiration](http://www.niice.co/?search=navbar)
 
-### So.
-
-Before I forget, I was thinking of a tool that would be neat. I choose most of my books based on Quora searches. I'd love to build something that just ranks books in different topics based on the number of mentions (and the weight/votes of those mentions) on Quora.
-
-![A potential prototype](http://i.imgur.com/22LSKXP.png)
-
-Here's how you can impact where I take this.
-
-Let me know which design 'thing'/info you are most interested in by clicking 2 buttons in a survey [here](https://docs.google.com/forms/d/1N4AZ3pK_40LN0MJCfpygOB7BdrODvJz8qgHIJDArELs/viewform). 
-
-##Did you miss that?
-
-*###[Click here to find out when/if I make this/it's cousin/long-lost twin or something of that nature](https://docs.google.com/forms/d/1N4AZ3pK_40LN0MJCfpygOB7BdrODvJz8qgHIJDArELs/viewform)*
-
-##*[Choose what I build!](https://docs.google.com/forms/d/1N4AZ3pK_40LN0MJCfpygOB7BdrODvJz8qgHIJDArELs/viewform)*
-
-(Surprise bonus for anyone that does that - I interviewed a few tech companies. You can pick what content I release first :D)
-
-
-Did you already fill out the survey? I hope so!
-
 Also - this page is definitely intended to stay up to date. Hence why it is on Github! Submit pull requests as you please.
-
-I'm a computer science student from Stanford University. 
