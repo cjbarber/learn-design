@@ -22,13 +22,13 @@ I was first thinking of just going by categories, e.g. Frameworks, Typography to
 ## A Quick Fix
 _For small projects, or projects launching soon_
 
-###Firstly
+### Firstly
 Skim through these three ultra short summaries.
 * <http://www.slideshare.net/Wolfr/design-for-developersonlineversionlong>
 * <http://www.scribd.com/doc/32311867/Design-for-Developers>
 * <http://www.slideshare.net/storyviz/purins-tips-on-visual-design>
 
-####Prototype + Email/SMS
+#### Prototype + Email/SMS
 Always worth seeing if you can get away with just a prototype, and then just create a service around email or SMS.
 _Note: This is me thinking about UX. You are reading this because you want to learn design. Maybe you want to do that because you are trying to design something for a project/startup of yours. And maybe just doing a prototype would solve 80% of your problem and be much easier!_
 
@@ -51,7 +51,7 @@ Email/SMS/Manual first startups:
 * <http://ryanhoover.me/post/48126005449/sms-first-startups>
 * <http://viniciusvacanti.com/2013/05/07/the-manual-first-startup/>
 
-####Simple websites
+#### Simple websites
 Luckily, simplicity and minimalism still (and always) in. So you can try bootstrap with a white background theme and a few buttons and do pretty well.
 
 Adding things like a semi-custom logo, some nice images, nice icons, cool and clean typography can go a long way.
@@ -60,7 +60,11 @@ Adding things like a semi-custom logo, some nice images, nice icons, cool and cl
 
 Site design kits:
 * Bootstrap (+ MagicBootstrap for a theme)
+  * [Main page](https://getbootstrap.com/)
+  * [Good intro video (8 mins)](https://www.youtube.com/watch?v=wesUO81YX0U)
+  * [General tutorial website and reference site](https://www.w3schools.com/bootstrap/)
 * Foundation
+  * 
 * PureCSS
 * Flat UI
 
@@ -96,7 +100,7 @@ Parallax one page sites: (warning, can easily lead to a bad user experience)
 
 Also, FYI adding a Themeforest premium theme to a bootstrap site can make it look awesome.
 
-####iPhone prototypes
+#### iPhone prototypes
 For iOS mockups, check out tools [here](http://www.quora.com/Prototyping/What-are-the-best-rapid-prototyping-tools-for-iOS-apps), [here](http://www.quora.com/What-is-the-best-mockup-tool-for-mocking-iPad-apps), [here](http://www.quora.com/What-tool-is-best-for-rapid-prototyping-an-iPad-application) and also check out the [POP app](http://popapp.in/).
 
 <http://www.teehanlax.com/tools/iphone/>
